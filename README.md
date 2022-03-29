@@ -1,5 +1,13 @@
-<details><summary> ## Netflix Project </summary><p>
-</p></details>
+## Netflix Project
 
-<details><summary> ## The Android App Market on Google Play </summary><p>
+<!---
+<details><summary>  </summary><p>
 </p></details>
+-->
+
+## The Android App Market on Google Play 
+
+<!---
+<details><summary></summary><p>
+</p></details>
+-->
