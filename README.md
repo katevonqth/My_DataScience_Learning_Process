@@ -1,17 +1,5 @@
-# My_DataScience_Learning_Process
-
-## Netflix Project
-
-<details><summary>stuff with *mark* **down**</summary><p>
-
-## _formatted_ **heading** with [a](link)
-
----
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----
-
-Collapsible until here.
+<details><summary>## Netflix Project</summary><p>
 </p></details>
 
-
-## The Android App Market on Google Play
+<details><summary>## The Android App Market on Google Play</summary><p>
+</p></details>
