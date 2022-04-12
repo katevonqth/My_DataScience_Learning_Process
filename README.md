@@ -1,4 +1,5 @@
-## In process...
+## DataCamp Data Scientist with Python -- Career Track
+- This folder contains the project I made in the course offered by DataCamp on becoming a data scientist with Python 🐍. 
 
 ### Netflix Project
 
